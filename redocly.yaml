@@ -1,0 +1,28 @@
+apis:
+  sample@v1:
+    root: ./openapi/petstore.yaml
+    rules:
+      security-defined: warn
+theme:
+  openapi:
+    htmlTemplate: ./docs/index.html
+    pagination: section
+    theme: 
+      colors:
+        primary:
+          main: "#094670"
+        text: 
+          light: "#efefef"
+          primary: "#2e2e2e"
+          secondary: "#0f1caa"
+      typography:
+        fontFamily: "'Antic Slab', serif"
+        heading1: 
+          fontFamily: "'Shadows Into Light', cursive"
+        heading2: 
+          fontFamily: "Antic Slab"
+        code: 
+          fontFamily: "Antic Slab"
+      sidebar: 
+        groupItems: 
+          textTransform: "capitalize"
