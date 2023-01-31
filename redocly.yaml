@@ -5,7 +5,7 @@ apis:
       security-defined: warn
 theme:
   openapi:
-    htmlTemplate: ./docs/index.html
+    htmlTemplate: ./index.html
     pagination: section
     theme: 
       colors:
