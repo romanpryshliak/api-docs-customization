@@ -13,3 +13,7 @@ This is an image:
 ![petstore logo](logo.png)  
 
 ![petstore logo](/logo.png)  
+
+<img alt="Redocly logo" src="https://user-images.githubusercontent.com/92374352/159934184-164c9549-e059-406a-9840-5b4f3fd25b02.png">  
+
+![Redocly logo](https://user-images.githubusercontent.com/92374352/159934184-164c9549-e059-406a-9840-5b4f3fd25b02.png)  
